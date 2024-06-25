@@ -4,12 +4,12 @@
 This is a project for Data Science course at Saarland University.
 
 ## Installation
-- Please insert orginal data in /data folder.
-- We have used Python 3.10 to develop this project.
+- Please insert orginal data in `/data` folder.
 - To install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+- Please first run `preprocessing.ipynb` then `prepare_training_data.ipynb` before running any models.
 
 ## Disclaimer
 **This project is intended as a reference and educational resource. It is not designed to be copied and pasted directly into production code.**
