@@ -12,7 +12,7 @@ pip install -r requirements.txt
 - Please first run `preprocessing.ipynb` then `prepare_training_data.ipynb` before running any models.
 
 ## Disclaimer
-**This project is intended as a reference and educational resource. It is not designed to be copied and pasted directly into production code.**
+**This project is not intended as a reference and educational resource.**
 
 ## Contribution
 - Abdul Wahab
